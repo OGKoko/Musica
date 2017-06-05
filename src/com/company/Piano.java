@@ -18,7 +18,7 @@ public class Piano extends Instrumento {
                     System.out.println("DOrito");
                     break;
                 case RE:
-                    System.out.println("REputa");
+                    System.out.println("REpollo");
                     break;
                 case MI:
                     System.out.println("MIcasa");
